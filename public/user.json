@@ -1,0 +1,22 @@
+[
+    {
+        "Usuario": "luis.marques@aluno.sesi.al.br",
+        "Senha": "senha123"
+    },
+    {
+        "Usuario": "Iguinho.professor@aluno.sesi.al.br",
+        "Senha": "nota10"
+    },
+    {
+        "Usuario":"nickely.lopes@aluno.sesi.al.br",
+        "Senha":"senha123"
+    },
+    {
+        "Usuario":"kleiton.conceicao@aluno.sesi.al.br",
+        "Senha":"senha123"
+    },
+    {
+        "Usuario":"vivian.lima@aluno.sesi.al.br",
+        "Senha":"senha123"
+    }
+]
